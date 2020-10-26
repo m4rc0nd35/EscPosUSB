@@ -1,6 +1,6 @@
 ### PRINTER_ESCPOS_USB
 
-**Printer
+#### Printer
 EPSON TM 20|X
 
 ```bash
