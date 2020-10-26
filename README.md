@@ -13,3 +13,4 @@ make install
 *** After libusb compiled, move libs for path Qt:
 $mv /usr/local/lib/libusb-1.0.* /usr/local/qt5pi/lib/
 ```
+![alt text](http://fcomp.ist.utl.pt/ESTAGIOS.web/FIG_gpiopinsv2withpi.png)
