@@ -1,6 +1,6 @@
 ### ESCPOSUSB
 
->Qt native usb printer EPSON TM 20x Esc/Pos thermal with library libusb.
+>Qt native usb printer EPSON TM 20x Esc/Pos thermal with library libusb in raspberry.
 
 **Supports**
 - [x]  Print Mode
