@@ -1,1 +1,0 @@
-﻿#include "escpos/FontParams.h"
