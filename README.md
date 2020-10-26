@@ -3,7 +3,7 @@
 **Supports**
 - [x]  Print Mode
 - [x] Justification
-- [x] HRI positioning
+- [x] HRI
 - [x] Reset
 - [x] Line feed
 - [x] QRCode printing
@@ -11,6 +11,7 @@
 - [x] set font size
 - [x] set font style
 - [x] image stored flash printer
+- [x] QML
 
 **Setup install**
 
