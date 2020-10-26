@@ -1,5 +1,5 @@
 ﻿#include "escposusb.h"
-using namespace std;
+
 EscPosUSB::EscPosUSB(QObject *parent) : QObject(parent)
 {
 //    m_codec = QTextCodec::codecForName("UTF-8");

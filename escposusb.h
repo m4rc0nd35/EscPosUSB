@@ -2,9 +2,7 @@
 #define ESCPOSUSB_H
 #include <QObject>
 #include <QDebug>
-#include <QTextCodec>
 #include <libusb.h>
-#include <exception>
 
 #define NUL 0
 #define SOH 0x01
