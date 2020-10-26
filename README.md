@@ -12,7 +12,7 @@
 - [x] set font style
 - [x] image stored flash printer
 
-Setup
+**Setup install**
 
 ```bash
 $wget https://github.com/libusb/libusb/releases/download/v1.0.23/libusb-1.0.23.tar.bz2
