@@ -1,8 +1,8 @@
 ### PRINTER_ESCPOS_USB
 
-Print Mode
-Justification
-HRI positioning
+- Print Mode
+- Justification
+- HRI positioning
 Reset
 Line feed
 QRCode printing
@@ -43,7 +43,7 @@ $mv /usr/local/lib/libusb-1.0.* /usr/local/qt5pi/lib/
       printer->image("00");
       printer->endline();
       printer->barCode("123456789", EscPosUSB::Position::topBottom, EscPosUSB::FontFamily::A, EscPosUSB::BarCodeType::CODE39, 20, 3);
-      printer->qrCode("http://www.mtsis.com.br", EscPosUSB::Model::MicroQRCode, EscPosUSB::ModelSize::S1, EscPosUSB::ErrorCorrection::H);
+      printer->qrCode("http://www.artmachine.com.br", EscPosUSB::Model::MicroQRCode, EscPosUSB::ModelSize::S1, EscPosUSB::ErrorCorrection::H);
       printer->cut();
       printer->printer();
       
