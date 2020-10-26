@@ -9,8 +9,8 @@
 - [x] end line
 - [x] QRCode printing
 - [ ] Print image jpg/png
-- [x] set font size
-- [x] set font style
+- [x] font size
+- [x] font style
 - [x] image stored flash printer
 - [x] QML
 
