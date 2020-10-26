@@ -5,7 +5,8 @@
 - [x] Justification
 - [x] HRI
 - [x] Reset
-- [x] Line feed
+- [ ] Line feed
+- [x] end line
 - [x] QRCode printing
 - [ ] Print image jpg/png
 - [x] set font size
